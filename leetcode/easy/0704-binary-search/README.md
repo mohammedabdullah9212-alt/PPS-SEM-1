@@ -43,8 +43,8 @@ Explanation: 2 does not exist in nums so return -1
 
 **Language:** C  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 10 MB (beats 42.61%)  
-**Submitted:** 2026-11-26T14:29:02.090Z  
+**Memory:** 9.8 MB (beats 87.02%)  
+**Submitted:** 2026-11-26T14:43:08.167Z  
 
 ```c
 int search(int* nums, int numsSize, int target) {
